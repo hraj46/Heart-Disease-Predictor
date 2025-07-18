@@ -58,17 +58,15 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-Open in Browser
+5. **Open in Browser**
+```bash
 Go to http://localhost:5000
-
 ---
 
-🧠 Model Info
-Algorithm: Logistic Regression
-
-Input Features: Age, Chest Pain Type (cp), Maximum Heart Rate Achieved (thalach)
-
-Target: 1 = Heart disease present, 0 = No heart disease
+## 🧠 Model Info
+- Algorithm: Logistic Regression
+- Input Features: Age, Chest Pain Type (cp), Maximum Heart Rate Achieved (thalach)
+- Target: 1 = Heart disease present, 0 = No heart disease
 
 📦 Requirements
 Python 3.7+
