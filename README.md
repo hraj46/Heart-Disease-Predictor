@@ -81,8 +81,8 @@ Go to http://localhost:5000
 - joblib
 
 ## 🙋‍♂️ Author
--- Himanshu Raj
--- LinkedIn | GitHub
+- Himanshu Raj
+- LinkedIn | GitHub
 
 ## 📄 License
 - This project is open-source and available under the MIT License.
