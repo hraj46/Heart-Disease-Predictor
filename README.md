@@ -25,7 +25,7 @@ The goal of this project is to build a lightweight, responsive, and user-friendl
 ---
 
 ## 📂 Project Structure
-
+```
 ├── app.py # Flask backend
 ├── heart_disease_model.pkl # Trained ML model
 ├── requirements.txt # Python dependencies
@@ -34,6 +34,7 @@ The goal of this project is to build a lightweight, responsive, and user-friendl
 │ └── background.jpg # Background image
 └── templates/
 └── index.html # Frontend HTML
+```
 
 ---
 
@@ -43,8 +44,9 @@ The goal of this project is to build a lightweight, responsive, and user-friendl
 ```bash
 git clone https://github.com/yourusername/heart-disease-predictor.git
 cd heart-disease-predictor
-Create a virtual environment (optional but recommended)
 
+```
+2. **Create a virtual environment (optional but recommended)**
 bash
 Copy
 Edit
