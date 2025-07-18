@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Predictor Web App
+# ❤️ Heart Disease Predictor
 
 This is a machine learning-based web application that predicts the likelihood of heart disease using a Logistic Regression model. The app allows users to input basic health parameters and get real-time predictions.
 
@@ -80,15 +80,10 @@ Go to http://localhost:5000
 - numpy
 - joblib
 
-🙋‍♂️ Author
-Himanshu Raj
-LinkedIn | GitHub
+## 🙋‍♂️ Author
+-- Himanshu Raj
+-- LinkedIn | GitHub
 
 ## 📄 License
-This project is open-source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
-Let me know if you want me to personalize it further with your GitHub link, profile photo, or dataset credits!
+- This project is open-source and available under the MIT License.
+  - Let me know if you want me to personalize it further with your GitHub link, profile photo, or dataset credits!
