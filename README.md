@@ -44,26 +44,20 @@ The goal of this project is to build a lightweight, responsive, and user-friendl
 ```bash
 git clone https://github.com/yourusername/heart-disease-predictor.git
 cd heart-disease-predictor
-
 ```
 2. **Create a virtual environment (optional but recommended)**
-bash
-Copy
-Edit
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies
-
-bash
-Copy
-Edit
+```
+3. **Install dependencies**
+```bash
 pip install -r requirements.txt
-Run the Flask app
-
-bash
-Copy
-Edit
+```
+4. **Run the Flask app**
+```bash
 python app.py
+```
 Open in Browser
 Go to http://localhost:5000
 
