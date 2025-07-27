@@ -80,8 +80,12 @@ Go to http://localhost:5000
 - numpy
 - joblib
 
+---
+
 ## 🙋‍♂️ Author
 - Himanshu Raj
+
+---
 
 ## 📄 License
 - This project is open-source and available under the MIT License.
