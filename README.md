@@ -82,7 +82,6 @@ Go to http://localhost:5000
 
 ## 🙋‍♂️ Author
 - Himanshu Raj
-- LinkedIn | GitHub
 
 ## 📄 License
 - This project is open-source and available under the MIT License.
